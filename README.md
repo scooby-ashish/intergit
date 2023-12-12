@@ -1,5 +1,7 @@
-Git Commands
--------------
+https://markdown-it.github.io/#fnref2
+
+# Git Commands
+___
 
 ```markdown
 git init
